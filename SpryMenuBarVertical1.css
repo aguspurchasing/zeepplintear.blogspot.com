@@ -93,14 +93,12 @@ ul.MenuBarVertical a:hover, ul.MenuBarVertical a:focus
 {
 	background-image: url(https://3.bp.blogspot.com/-tJDrbJIDx94/WUdWfTNFLSI/AAAAAAAAB5o/GVs9IyNG4R4MKxRdNpiReENQsJr1zo36wCLcBGAs/s1600/GEAR-GEAR.jpg);
 	color: #FF0;
-	font-size:20px;
 }
 /* Menu items that are open with submenus are set to MenuBarItemHover with a blue background and white text */
 ul.MenuBarVertical a.MenuBarItemHover, ul.MenuBarVertical a.MenuBarItemSubmenuHover, ul.MenuBarVertical a.MenuBarSubmenuVisible
 {
 	background-image: url(https://3.bp.blogspot.com/-tJDrbJIDx94/WUdWfTNFLSI/AAAAAAAAB5o/GVs9IyNG4R4MKxRdNpiReENQsJr1zo36wCLcBGAs/s1600/GEAR-GEAR.jpg);
 	color: #FF0;
-	font-size:20px;
 }
 
 /*******************************************************************************
